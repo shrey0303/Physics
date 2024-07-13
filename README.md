@@ -1,5 +1,5 @@
 
-#Physics_Engine in C++
+## Physics Engine in C++
 
 This project involves developing a 2D rigid body physics engine. This type of engine is designed to simulate the physical interactions between objects in a two-dimensional space
 
